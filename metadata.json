@@ -1,0 +1,7 @@
+{
+  "name": "Q-SHIELD — Quantum-Inspired Threat Detection",
+  "description": "Quantum-inspired statistical threat detection layer for secure digital signature verification with real-time telemetry and explainable security analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
